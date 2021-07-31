@@ -1,2 +1,7 @@
 .idea
 test_project_generator.sh
+.DS_Store
+src/.DS_Store
+src/com/.DS_Store
+src/com/java/.DS_Store
+src/com/java/v2/.DS_Store
