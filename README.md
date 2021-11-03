@@ -1,6 +1,6 @@
 # Welcome to the Caribou playground!
 
-This is a repository for you to play around with the Caribou by creating fake migrations, and collaborate with other
+This is a repository for you to play around with Caribou by creating fake migrations, and collaborate with other
 beta-testers to get a migration across the finish line!
 
 ### Why should you use this project instead of any other personal project?
